@@ -1,32 +1,32 @@
-# React + TypeScript + Vite
+# wLw-Bewerbung
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Meine Bewerbung für das IMS-Praktikum bei [Wir lernen weiter](https://wir-lernen-weiter.ch) – als Webseite statt klassischem PDF.
 
-Currently, two official plugins are available:
+🔗 **Live:** [wlw-bewerbung.vercel.app](https://wlw-bewerbung.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Über mich
 
-## React Compiler
+IMS-Absolvent (Alte Kantonsschule Aarau / BBB Baden) auf der Suche nach einem einjährigen Praktikum in der Applikationsentwicklung. Technischer Schwerpunkt auf C#/.NET, ergänzt durch Python, PowerShell, JavaScript und SQL.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Warum diese Seite
 
-## Expanding the Oxlint configuration
+wLw erlaubt freie Bewerbungsformate – das hier zeigt direkt, wie ich arbeite, statt es nur zu behaupten.
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## Tech-Stack
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+- React + TypeScript
+- Vite
+- Gehostet auf Vercel
+
+## Lokal starten
+
+```bash
+npm install
+npm run dev
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## Kontakt
+
+- Mail: [eloi.knecht@gmx.ch](mailto:eloi.knecht@gmx.ch)
+- GitHub: [ascii-phoenix](https://github.com/ascii-phoenix)
+- LinkedIn: [eloi-a-knecht](https://linkedin.com/in/eloi-a-knecht/)
