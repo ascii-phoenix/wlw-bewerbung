@@ -7,7 +7,7 @@ export default function Hero() {
       </h1>
       <p className="subtitle">
         IMS-Absolvent auf der Suche nach einem einjährigen Praktikum in der
-        Applikationsentwicklung bei wLw
+        Applikationsentwicklung bei Wir lernen weiter
       </p>
     </section>
   );

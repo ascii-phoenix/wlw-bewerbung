@@ -11,11 +11,11 @@ export default function About() {
         Australien, gemacht.
       </p>
 
-        <h2>Warum wLw</h2>
+        <h2>Warum Wir lernen weiter</h2>
         <p>
             Mit einem Computer und Internetzugang kann heute im Prinzip jede und jeder
-            Informatik lernen. Genau das schafft Perspektiven – aber nur, wenn dieser
-            Zugang auch tatsächlich da ist. wLw setzt sich genau dafür ein, und das
+            Informatik lernen. Genau das schafft Perspektiven. Aber nur, wenn dieser
+            Zugang auch tatsächlich da ist. Wir lernen weiter setzt sich genau dafür ein, und das
             überzeugt mich: Statt Übungsaufgaben für die Schublade entstehen hier echte
             Projekte mit direkter Wirkung auf Menschen, die diesen Zugang sonst nicht
             hätten.
